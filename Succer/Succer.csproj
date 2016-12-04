@@ -119,6 +119,7 @@
     <TypeScriptCompile Include="src\PlayerBase.ts" />
     <TypeScriptCompile Include="src\Renderer.ts" />
     <TypeScriptCompile Include="src\SoccerBall.ts" />
+    <TypeScriptCompile Include="src\SoccerTeam.ts" />
     <TypeScriptCompile Include="src\State.ts" />
     <TypeScriptCompile Include="src\succer.ts" />
     <TypeScriptCompile Include="src\Throwin.ts" />

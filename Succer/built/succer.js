@@ -1794,6 +1794,13 @@ var Renderer;
 (function (Renderer) {
     var canvas;
 })(Renderer || (Renderer = {}));
+var SoccerTeam = (function () {
+    function SoccerTeam() {
+        //pointers to the team members
+        this.players = []; //new Array<PlayerBase>(5);
+    }
+    return SoccerTeam;
+}());
 var Throwin = (function () {
     function Throwin() {
         this.pos = new Vector2();

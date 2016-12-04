@@ -304,6 +304,10 @@ declare class Vector2 implements IVector2 {
 }
 declare namespace Renderer {
 }
+declare class SoccerTeam {
+    private players;
+    constructor();
+}
 declare class Throwin {
     pos: Vector2;
     ballpos: Vector2;
